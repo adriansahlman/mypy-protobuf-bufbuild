@@ -12,6 +12,6 @@ plugins:
     opt: paths=source_relative
   - remote: buf.build/protocolbuffers/plugins/python:v3.19.3-1
     out: gen
-  - remote: buf.build/adriansahlman/plugins/mypy-protobuf:v3.2.0-1
+  - remote: buf.build/adriansahlman/plugins/mypy-protobuf:v3.3.0-1
     out: gen
 ```
