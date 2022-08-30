@@ -2,7 +2,7 @@
 
 BUF_URL = plugins.buf.build/adriansahlman/mypy-protobuf
 
-PLUGIN_VERSION = 3.2.0
+PLUGIN_VERSION = 3.3.0
 BUF_VERSION = 1
 
 DOCKER_FILE   := Dockerfile

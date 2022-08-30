@@ -1,6 +1,6 @@
-FROM python:3.7-slim
+FROM python:3.8-slim
 
-ARG VERSION=3.2.0
+ARG VERSION=3.3.0
 
 RUN pip install mypy-protobuf==${VERSION}
 
